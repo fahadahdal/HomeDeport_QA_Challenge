@@ -1,4 +1,4 @@
-Name of Project:
+Name of Project: Home Depot QA Challenge
 
 Introduction:
 

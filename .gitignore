@@ -2,3 +2,4 @@ packages/*
 .vs/*
 DataDriverFramwork/bin/*
 DataDriverFramwork/obj/*
+DataDriverFramwork/Reports/*
