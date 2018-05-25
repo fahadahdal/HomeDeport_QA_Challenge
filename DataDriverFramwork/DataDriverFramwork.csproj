@@ -91,7 +91,6 @@
   <ItemGroup>
     <Content Include="BrowserDrivers\chromedriver.exe" />
     <Content Include="extent-config.xml" />
-    <Content Include="README.txt" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Reports\" />
