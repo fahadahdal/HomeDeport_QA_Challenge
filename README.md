@@ -24,7 +24,7 @@ How to Run?
 - You might feel that the Automated test running little slow becasue I have added some waits in the code so you can see exactly which options I am selecting for this test (In actual test automation, we I will not provide any waits in code)
 
 Reporting:
-- Once Automated Test will be completed, the reporting will be open automatically Test status and logs.
+- Once Automated Test will be completed, the reporting will be open automatically with Test status and logs.
 
 Manual Testcases:
 - Go to Solution Explorer and Under "DataDriverFramwork", manual Test cases are located having name "TestCases.xlsx"
