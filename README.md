@@ -1,7 +1,7 @@
 Name of Project: Home Depot QA Challenge
 
 Introduction:
-This Manual and Automated testcase scenario on www.justblinds.com is designed to make sure that faux wood blinds can be carted and edited properly and if the Width of the blind increses, the price also increases significantly.
+This Manual and Automated testcase for www.justblinds.com is designed to make sure that faux wood blinds can be carted and edited properly and if the with of the blind increases, the price also increases significantly.
 
 Pre-requsites:
 - Microsoft Visual Community 2017 installed
@@ -23,7 +23,7 @@ How to Run?
 - Under "Test Explorer", right click on "DataDrivenFramework > Run Selected Tests". After that Automated Test will start executing.
 
 Reporting:
-- Once Automated Test will be completed, the reporting will be open automatically showing logs and Test status.
+- Once Automated Test will be completed, the reporting will be open automatically Test status and logs.
 
 Manual Testcases:
 - Go to Solution Explorer and Under "DataDriverFramwork", manual Test cases are located having name "TestCases.xlsx"
