@@ -5,6 +5,8 @@ This Manual and Automated testcase for www.justblinds.com is designed to make su
 
 Pre-requsites:
 - Microsoft Visual Community 2017 installed
+- Nunit Template for Visual Studio installed
+- Nunit test Adaptor installed
 - Chrome Version 66.0.3359.181 (Official Build) (64-bit) installed
 
 Download the Project:
